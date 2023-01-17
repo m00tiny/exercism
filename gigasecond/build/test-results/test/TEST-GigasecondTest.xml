@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="GigasecondTest" tests="5" skipped="4" failures="0" errors="0" timestamp="2023-01-17T17:14:19" hostname="moofasa" time="0.026">
+  <properties/>
+  <testcase name="full time specified" classname="GigasecondTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="date only specification of time" classname="GigasecondTest" time="0.024"/>
+  <testcase name="full time with day roll-over" classname="GigasecondTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="second test for date only specification of time" classname="GigasecondTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="third test for date only specification of time" classname="GigasecondTest" time="0.0">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
