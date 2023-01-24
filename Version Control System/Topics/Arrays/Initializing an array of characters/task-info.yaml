@@ -1,0 +1,18 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun main() {
+        val characters = // ...
+
+        println(characters.joinToString())
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4567#comment
+status: Failed
+feedback:
+  message: |
+    Failed. Wrong answer
+  time: "Sat, 28 Jan 2023 10:20:11 UTC"
+record: -1

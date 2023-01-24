@@ -1,0 +1,26 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: isEmptyMap()
+- text: isEmpty()
+- text: hasElements()
+- text: mapIsEmpty()
+files:
+- name: src/Main.kt
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    fun main(args: Array<String>) {
+      // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/12661#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Thu, 26 Jan 2023 05:59:58 UTC"
+record: -1
+selected_options:
+- 1
+local_check: false

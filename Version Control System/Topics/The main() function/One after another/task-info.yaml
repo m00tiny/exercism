@@ -1,0 +1,15 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun main(args: Array<String>) {
+        TODO()
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/20597#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Thu, 26 Jan 2023 16:09:25 UTC"
+record: -1
