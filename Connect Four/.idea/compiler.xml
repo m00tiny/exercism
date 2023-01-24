@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Connect_Four.Connect_Four-task-build-classes-kotlin.main" target="11" />
+      <module name="Connect_Four.Connect_Four-task-build-reports-tests.main" target="11" />
+      <module name="Connect_Four.Connect_Four-task-build-test-results.main" target="11" />
+      <module name="Connect_Four.Connect_Four-task-build-tmp.main" target="11" />
+      <module name="Connect_Four.Connect_Four-task.main" target="11" />
+      <module name="Connect_Four.Topics-Debugging_techniques-Find_the_error.main" target="11" />
+      <module name="Connect_Four.Topics-Debugging_techniques-Theory.main" target="11" />
+      <module name="Connect_Four.Topics-List-Concise.main" target="11" />
+      <module name="Connect_Four.Topics-List-Even_numbers.main" target="11" />
+      <module name="Connect_Four.Topics-List-List_initializing.main" target="11" />
+      <module name="Connect_Four.Topics-List-Number_of_occurrences.main" target="11" />
+      <module name="Connect_Four.Topics-List-Sum_of_numbers.main" target="11" />
+      <module name="Connect_Four.Topics-List-Theory.main" target="11" />
+      <module name="Connect_Four.Topics-Mutable_List-Add_them_all.main" target="11" />
+      <module name="Connect_Four.Topics-Mutable_List-Adding.main" target="11" />
+      <module name="Connect_Four.Topics-Mutable_List-Banana.main" target="11" />
+      <module name="Connect_Four.Topics-Mutable_List-MutableList_properties.main" target="11" />
+      <module name="Connect_Four.Topics-Mutable_List-Theory.main" target="11" />
+      <module name="Connect_Four.Topics-Null_safety-Safe_round.main" target="11" />
+      <module name="Connect_Four.Topics-Null_safety-Theory.main" target="11" />
+      <module name="Connect_Four.Topics-Type_conversion-Application.main" target="11" />
+      <module name="Connect_Four.Topics-Type_conversion-Existing_functions.main" target="11" />
+      <module name="Connect_Four.Topics-Type_conversion-Overflow_and_crash.main" target="11" />
+      <module name="Connect_Four.Topics-Type_conversion-Theory.main" target="11" />
+      <module name="Connect_Four.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

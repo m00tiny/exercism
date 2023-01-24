@@ -31,8 +31,7 @@ fun gameLoop(n1 :String, n2 :String, regex: Regex, list: MutableList<MutableList
 
         if (turn == 1) {
             if (list[v1 - 1][l.indexOf(h1)] != "W") {//for No White Pawn
-                println("Invalid Input") ;continue@loop
-                //println("No White Pawn At ${inp.substring(0, 2)}") ;continue@loop
+                println("No White Pawn At ${inp.substring(0, 2)}") ;continue@loop
             }
 
             if (!enPassant(v1, v2, h1, h2) && !forward(v1, v2, h1, h2) && !capture(v1, v2, h1, h2)) {
@@ -85,8 +84,8 @@ fun staleMate(): Boolean {
         return true
     }
 
-    println("remainingPawn = $remainingPawn")
-    println("blockedPawn = $blockedPawn")
+   // println("remainingPawn = $remainingPawn")
+   // println("blockedPawn = $blockedPawn")
     return false
 }
 

@@ -216,21 +216,8 @@ files:
 
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/13175#comment
-status: Failed
+status: Solved
 feedback:
-  message: "Wrong answer in test #1\n\nPlayer 2 prompt to play is expected.\n\nPlease\
-    \ find below the output of your program during this failed test.\nNote that the\
-    \ &#39;&gt;&#39; character indicates the beginning of the input line.\n\n---\n\
-    \nPawns-Only Chess\nFirst Player&#39;s name:\n&gt; John\nSecond Player&#39;s name:\n\
-    &gt; Amelia\n  +---+---+---+---+---+---+---+---+\n8 |   |   |   |   |   |   |\
-    \   |   | \n  +---+---+---+---+---+---+---+---+\n7 | B | B | B | B | B | B | B\
-    \ | B | \n  +---+---+---+---+---+---+---+---+\n6 |   |   |   |   |   |   |   |\
-    \   | \n  +---+---+---+---+---+---+---+---+\n5 |   |   |   |   |   |   |   | \
-    \  | \n  +---+---+---+---+---+---+---+---+\n4 |   |   |   |   |   |   |   |  \
-    \ | \n  +---+---+---+---+---+---+---+---+\n3 |   |   |   |   |   |   |   |   |\
-    \ \n  +---+---+---+---+---+---+---+---+\n2 | W | W | W | W | W | W | W | W | \n\
-    \  +---+---+---+---+---+---+---+---+\n1 |   |   |   |   |   |   |   |   | \n \
-    \ +---+---+---+---+---+---+---+---+\n    a   b   c   d   e   f   g   h    \nJohn&#39;s\
-    \ turn:\n&gt; a1h8\nInvalid Input\nJohn&#39;s turn:"
-  time: "Sun, 15 Jan 2023 06:16:37 UTC"
-record: -1
+  message: Congratulations!
+  time: "Wed, 18 Jan 2023 20:27:19 UTC"
+record: 2
