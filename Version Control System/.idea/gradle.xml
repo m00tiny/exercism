@@ -35,6 +35,9 @@
             <option value="$PROJECT_DIR$/Topics/Map/Strings to Map" />
             <option value="$PROJECT_DIR$/Topics/Map/Sum of values" />
             <option value="$PROJECT_DIR$/Topics/Map/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Multi-dimensional array/Accordance" />
+            <option value="$PROJECT_DIR$/Topics/Multi-dimensional array/Corners" />
+            <option value="$PROJECT_DIR$/Topics/Multi-dimensional array/Theory" />
             <option value="$PROJECT_DIR$/Topics/String arrays/Adding arrays" />
             <option value="$PROJECT_DIR$/Topics/String arrays/Editing and recreating" />
             <option value="$PROJECT_DIR$/Topics/String arrays/Empty" />
@@ -47,6 +50,12 @@
             <option value="$PROJECT_DIR$/Topics/The main() function/One after another" />
             <option value="$PROJECT_DIR$/Topics/The main() function/Select an entry point" />
             <option value="$PROJECT_DIR$/Topics/The main() function/Theory" />
+            <option value="$PROJECT_DIR$/Topics/While loops/Balance checker" />
+            <option value="$PROJECT_DIR$/Topics/While loops/Collatz conjecture" />
+            <option value="$PROJECT_DIR$/Topics/While loops/The first position of the largest element" />
+            <option value="$PROJECT_DIR$/Topics/While loops/The largest element" />
+            <option value="$PROJECT_DIR$/Topics/While loops/Theory" />
+            <option value="$PROJECT_DIR$/Topics/While loops/What does the code print" />
             <option value="$PROJECT_DIR$/Topics/Writing files/Duplication" />
             <option value="$PROJECT_DIR$/Topics/Writing files/Overwriting" />
             <option value="$PROJECT_DIR$/Topics/Writing files/Theory" />
