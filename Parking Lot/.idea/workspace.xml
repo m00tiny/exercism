@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fbce2dd2-4e31-473a-ae48-d6ce3753a65e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Parking Lot/Carspotting/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parking Lot/Expand and park/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parking Lot/First steps/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parking Lot/Only 2 spots/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parking Lot/Size matters/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Version Control System/Topics/Multi-dimensional array/Correct statements/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Version Control System/Topics/Multi-dimensional array/Correct statements/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Version Control System/Topics/Multi-dimensional array/Kotlin arrays/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Version Control System/Topics/Multi-dimensional array/Kotlin arrays/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Version Control System/Topics/Multi-dimensional array/Shapeshifter/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Version Control System/Topics/Multi-dimensional array/Shapeshifter/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Version Control System/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Version Control System/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Version Control System/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Version Control System/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Version Control System/Topics/Multi-dimensional array/Accordance/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Version Control System/Topics/Multi-dimensional array/Accordance/src/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Version Control System/Topics/Multi-dimensional array/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Version Control System/Topics/Multi-dimensional array/lesson-info.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="oqmamp38" />
+  </component>
+  <component name="ProjectId" id="2LBFvWFNqffZVeXE2ZUKpFEcnRP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Edu.Yaml.Migrate": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "show.inlinked.gradle.project.popup": "false"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="Codeforces" factoryName="Codeforces">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fbce2dd2-4e31-473a-ae48-d6ce3753a65e" name="Changes" comment="" />
+      <created>1675336799239</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675336799239</updated>
+    </task>
+    <servers />
+  </component>
+</project>
