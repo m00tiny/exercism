@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ParkingTest" tests="1" skipped="0" failures="1" errors="0" timestamp="2023-02-02T11:24:06" hostname="moofasa" time="0.15">
+<testsuite name="Task2Test" tests="1" skipped="0" failures="1" errors="0" timestamp="2023-02-05T03:20:24" hostname="moofasa" time="0.178">
   <properties/>
-  <testcase name="start" classname="ParkingTest" time="0.15">
-    <failure message="java.lang.AssertionError: Wrong answer in test #1&#10;&#10;You printed the wrong text! See the example.&#10;&#10;Please find below the output of your program during this failed test.&#10;&#10;---&#10;&#10;White car has parked&#10;Yellow car left the parking lot.&#10;Green car just parked here." type="java.lang.AssertionError">java.lang.AssertionError: Wrong answer in test #1
+  <testcase name="start" classname="Task2Test" time="0.178">
+    <failure message="java.lang.AssertionError: Wrong answer in test #3&#10;&#10;Error in line 1: &quot;Spot 2 is free.&quot; instead of &quot;There is no car in spot 2.&quot;. See example 3.&#10;&#10;Please find below the output of your program during this failed test.&#10;Note that the '&gt;' character indicates the beginning of the input line.&#10;&#10;---&#10;&#10;&gt; leave 2&#10;Spot 2 is free." type="java.lang.AssertionError">java.lang.AssertionError: Wrong answer in test #3
 
-You printed the wrong text! See the example.
+Error in line 1: &quot;Spot 2 is free.&quot; instead of &quot;There is no car in spot 2.&quot;. See example 3.
 
 Please find below the output of your program during this failed test.
+Note that the '&gt;' character indicates the beginning of the input line.
 
 ---
 
-White car has parked
-Yellow car left the parking lot.
-Green car just parked here.
+&gt; leave 2
+Spot 2 is free.
 	at org.junit.Assert.fail(Assert.java:89)
 	at org.hyperskill.hstest.stage.StageTest.start(StageTest.java:203)
 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
@@ -62,9 +62,16 @@ Green car just parked here.
   </testcase>
   <system-out><![CDATA[?[1;31m
 Start test 1?[0m
-White car has parked
-Yellow car left the parking lot.
-Green car just parked here.
+> park KA-01-HH-1234 White
+White car parked in spot 2.
+?[1;31m
+Start test 2?[0m
+> leave 1
+Spot 1 is free.
+?[1;31m
+Start test 3?[0m
+> leave 2
+Spot 2 is free.
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

@@ -44,20 +44,9 @@ files:
         }
     }
   learner_created: false
-feedback_link: https://hyperskill.org/projects/75/stages/416/implement#comment
-status: Failed
+feedback_link: https://hyperskill.org/learn/step/6597#comment
+status: Solved
 feedback:
-  message: |-
-    Wrong answer in test #1
-
-    You printed the wrong text! See the example.
-
-    Please find below the output of your program during this failed test.
-
-    ---
-
-    White car has parked
-    Yellow car left the parking lot.
-    Green car just parked here.
-  time: "Thu, 02 Feb 2023 11:24:06 UTC"
-record: -1
+  message: Congratulations!
+  time: "Thu, 02 Feb 2023 11:27:39 UTC"
+record: 1

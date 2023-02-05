@@ -5,24 +5,115 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fbce2dd2-4e31-473a-ae48-d6ce3753a65e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Parking Lot/Carspotting/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Parking Lot/Expand and park/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Parking Lot/First steps/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Parking Lot/Only 2 spots/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Parking Lot/Size matters/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Version Control System/Topics/Multi-dimensional array/Correct statements/src/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Version Control System/Topics/Multi-dimensional array/Correct statements/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Version Control System/Topics/Multi-dimensional array/Kotlin arrays/src/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Version Control System/Topics/Multi-dimensional array/Kotlin arrays/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Version Control System/Topics/Multi-dimensional array/Shapeshifter/src/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Version Control System/Topics/Multi-dimensional array/Shapeshifter/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Version Control System/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Version Control System/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Version Control System/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Version Control System/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Version Control System/Topics/Multi-dimensional array/Accordance/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Version Control System/Topics/Multi-dimensional array/Accordance/src/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Version Control System/Topics/Multi-dimensional array/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Version Control System/Topics/Multi-dimensional array/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Parking Lot/task/build/classes/kotlin/Parking_Lot.Parking_Lot-task-build-classes-kotlin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Parking Lot/task/build/classes/kotlin/Parking_Lot.Parking_Lot-task-build-classes-kotlin.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Parking Lot/task/build/classes/kotlin/Parking_Lot.Parking_Lot-task-build-classes-kotlin.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Parking Lot/task/build/reports/tests/Parking_Lot.Parking_Lot-task-build-reports-tests.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Parking Lot/task/build/reports/tests/Parking_Lot.Parking_Lot-task-build-reports-tests.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Parking Lot/task/build/reports/tests/Parking_Lot.Parking_Lot-task-build-reports-tests.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Parking Lot/task/build/test-results/Parking_Lot.Parking_Lot-task-build-test-results.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Parking Lot/task/build/test-results/Parking_Lot.Parking_Lot-task-build-test-results.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Parking Lot/task/build/test-results/Parking_Lot.Parking_Lot-task-build-test-results.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Parking Lot/task/build/tmp/Parking_Lot.Parking_Lot-task-build-tmp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Parking Lot/task/build/tmp/Parking_Lot.Parking_Lot-task-build-tmp.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Parking Lot/task/build/tmp/Parking_Lot.Parking_Lot-task-build-tmp.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parking Lot/task/build/classes/kotlin/test/InputClue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parking Lot/task/build/classes/kotlin/test/META-INF/Parking_Lot-task.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parking Lot/task/build/classes/kotlin/test/OutputClue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parking Lot/task/build/classes/kotlin/test/ParkingTestKt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parking Lot/task/build/classes/kotlin/test/Task2Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parking Lot/task/build/reports/tests/test/classes/Task2Test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parking Lot/task/build/test-results/test/TEST-Task2Test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parking Lot/task/build/tmp/test/jar_extract_1316620806276436875_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parking Lot/task/build/tmp/test/jar_extract_17977952224148286965_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parking Lot/task/build/tmp/test/jar_extract_1890150039723041250_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parking Lot/task/build/tmp/test/jar_extract_1928819650899150473_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parking Lot/task/build/tmp/test/jar_extract_3005098111513773725_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parking Lot/task/build/tmp/test/jar_extract_3636261192122994074_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parking Lot/task/build/tmp/test/jar_extract_3673287344598620119_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parking Lot/task/build/tmp/test/jar_extract_6005754961732634216_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parking Lot/task/build/tmp/test/jar_extract_657734785804723478_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parking Lot/task/build/tmp/test/jar_extract_8255271830968010849_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parking Lot/task/build/tmp/test/jar_extract_9067950050589323296_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parking Lot/task/build/tmp/test/jar_extract_9594028090616353414_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parking Lot/task/build/tmp/test/jar_extract_9694392794737636681_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Parking Lot/task/test/ParkingTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Work with MutableLists/Adding lists/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Work with MutableLists/Adding lists/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Work with MutableLists/Adding lists/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Work with MutableLists/Adding lists/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Work with MutableLists/Theory/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Work with MutableLists/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Work with MutableLists/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Work with MutableLists/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Work with MutableLists/Yet another list/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Work with MutableLists/Yet another list/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Work with MutableLists/Yet another list/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Work with MutableLists/Yet another list/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Work with MutableLists/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/section-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Parking Lot/task/Parking_Lot.Parking_Lot-task.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Parking Lot/task/Parking_Lot.Parking_Lot-task.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parking Lot/Carspotting/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Parking Lot/Carspotting/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parking Lot/Expand and park/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Parking Lot/Expand and park/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parking Lot/First steps/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Parking Lot/First steps/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parking Lot/Only 2 spots/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Parking Lot/Only 2 spots/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parking Lot/Size matters/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Parking Lot/Size matters/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parking Lot/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Parking Lot/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parking Lot/task/build/classes/java/test/ParkingTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parking Lot/task/build/classes/kotlin/main/parking/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/Parking Lot/task/build/classes/kotlin/main/parking/MainKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parking Lot/task/build/kotlin/compileKotlin/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Parking Lot/task/build/kotlin/compileKotlin/build-history.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parking Lot/task/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab" beforeDir="false" afterPath="$PROJECT_DIR$/Parking Lot/task/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parking Lot/task/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/Parking Lot/task/build/kotlin/compileKotlin/caches-jvm/inputs/source-to-output.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parking Lot/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" beforeDir="false" afterPath="$PROJECT_DIR$/Parking Lot/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parking Lot/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/Parking Lot/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parking Lot/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab" beforeDir="false" afterPath="$PROJECT_DIR$/Parking Lot/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parking Lot/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/Parking Lot/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/package-parts.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parking Lot/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab" beforeDir="false" afterPath="$PROJECT_DIR$/Parking Lot/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parking Lot/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/Parking Lot/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parking Lot/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/Parking Lot/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parking Lot/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/Parking Lot/task/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parking Lot/task/build/kotlin/compileKotlin/caches-jvm/lookups/counters.tab" beforeDir="false" afterPath="$PROJECT_DIR$/Parking Lot/task/build/kotlin/compileKotlin/caches-jvm/lookups/counters.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parking Lot/task/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab" beforeDir="false" afterPath="$PROJECT_DIR$/Parking Lot/task/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parking Lot/task/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/Parking Lot/task/build/kotlin/compileKotlin/caches-jvm/lookups/file-to-id.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parking Lot/task/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab" beforeDir="false" afterPath="$PROJECT_DIR$/Parking Lot/task/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parking Lot/task/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/Parking Lot/task/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parking Lot/task/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/Parking Lot/task/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parking Lot/task/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/Parking Lot/task/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parking Lot/task/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/Parking Lot/task/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parking Lot/task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab" beforeDir="false" afterPath="$PROJECT_DIR$/Parking Lot/task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parking Lot/task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/Parking Lot/task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parking Lot/task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/Parking Lot/task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parking Lot/task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/Parking Lot/task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parking Lot/task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/Parking Lot/task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parking Lot/task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/Parking Lot/task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parking Lot/task/build/kotlin/compileKotlin/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Parking Lot/task/build/kotlin/compileKotlin/last-build.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parking Lot/task/build/reports/tests/test/classes/ParkingTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parking Lot/task/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Parking Lot/task/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parking Lot/task/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/Parking Lot/task/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parking Lot/task/build/test-results/test/TEST-ParkingTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parking Lot/task/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Parking Lot/task/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parking Lot/task/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/Parking Lot/task/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parking Lot/task/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Parking Lot/task/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parking Lot/task/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parking Lot/task/src/parking/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Parking Lot/task/src/parking/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parking Lot/task/test/ParkingTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,19 +128,27 @@
   <component name="MacroExpansionManager">
     <option name="directoryName" value="oqmamp38" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2LBFvWFNqffZVeXE2ZUKpFEcnRP" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Edu.Yaml.Migrate": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "show.inlinked.gradle.project.popup": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Edu.Yaml.Migrate&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;show.inlinked.gradle.project.popup&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration default="true" type="Codeforces" factoryName="Codeforces">
       <method v="2">
@@ -78,5 +177,8 @@
       <updated>1675336799239</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

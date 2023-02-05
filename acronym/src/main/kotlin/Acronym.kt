@@ -1,10 +1,10 @@
 object Acronym {
 
     fun generate(phrase : String) : String
-            = phrase.replace("-", " ")
-            .split(" ")
-            .filter { it.isNotEmpty() }
-            .map { it.first() }
-            .joinToString("")
-            .toUpperCase()
+        var acronym = readln().split(' ').mutableListOf()
+        var myAcronym = mutableListOf()
+        for (i in 0...acronym.size) {
+                myAcronym[i] += acronym[i].first()
+        }
+        println(myAcronym)
 }
